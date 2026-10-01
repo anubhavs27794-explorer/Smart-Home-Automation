@@ -1,0 +1,6 @@
+ESP32 -> PIR OUT: GPIO27
+ESP32 -> LDR analog output: GPIO34
+ESP32 -> temperature sensor analog output: GPIO35
+ESP32 -> Light relay input: GPIO26
+ESP32 -> Fan relay input: GPIO25
+Connect sensor VCC/GND to the appropriate supply rails. Use safe low-voltage loads for testing; mains wiring should be handled by a qualified person.
